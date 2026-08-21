@@ -21,9 +21,8 @@ En los tres casos, el patrón se toma de los últimos caracteres del texto, gara
 
 ### Entorno de Pruebas
 Las pruebas se ejecutaron en un equipo con las siguientes especificaciones técnicas:
-* **RAM:** *(completar)*
-* **Procesador:** *(completar)*
-
+* **RAM:** 8 GB 5600 MHz DDR5.
+* **Procesador:** 2.4 GHz Intel Core i5 de 10 núcleos.
 ---
 
 ## Descripción de los Algoritmos
